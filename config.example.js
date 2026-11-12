@@ -9,12 +9,12 @@
 // Copie para `config.js` e preencha:
 //     cp config.example.js config.js
 //
-// Depois, use estes MESMOS valores para substituir os marcadores
-// <<PREENCHER: ...>> de owner/repo/URL do Pages que aparecem em:
+// Depois, use estes MESMOS valores para substituir os marcadores de
+// preenchimento de owner/repo/URL do Pages que aparecem em:
 //   - SETUP-CRON.md (URL da API do GitHub e URL do Pages)
 //   - README.md, CLAUDE.md e AGENTS.md (URL pública do Pages)
 // (São documentos Markdown estáticos, por isso a substituição é manual —
-// busque por `<<PREENCHER` no repositório.)
+// use o grep do checklist do CLAUDE.md.)
 window.CONFIG = {
   // Usuário ou organização dona do repositório no GitHub.
   GITHUB_USERNAME: "",       // ex.: "seu-usuario"

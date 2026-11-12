@@ -1,4 +1,4 @@
-# AGENTS.md — Dashboard de Controle de Tráfego Pago (TEMPLATE)
+# AGENTS.md — Dashboard de Controle de Tráfego Pago — Bruno Corano / Black Manhattan Connection
 
 > Instruções para agentes de código (Codex, Claude Code e afins). O contexto
 > completo do projeto — fontes de dados, regra de atribuição, métricas,
@@ -66,8 +66,8 @@ grep -rn "<<PREENCHER" --exclude-dir=.git . | grep -v -E "^\./(CLAUDE|AGENTS)\.m
 
 ## Projeto
 
-- **Cliente/funil:** <<PREENCHER: nome do cliente — nome do funil/lançamento>>
-- **URL pública:** `<<PREENCHER: URL do GitHub Pages, ex.: https://<owner>.github.io/<repo>/>>`
+- **Cliente/funil:** Bruno Corano — Black Manhattan Connection (Black Friday 2026, sigla `MC-BF26`)
+- **URL pública:** `https://scale-ag.github.io/dash-black-manhattan/`
 - **Tipo de funil:** lançamento pago / tráfego direto —
   `Gasto → Impressões → Cliques → Page Views → Checkouts → Vendas → Faturamento`
 
@@ -78,7 +78,7 @@ grep -rn "<<PREENCHER" --exclude-dir=.git . | grep -v -E "^\./(CLAUDE|AGENTS)\.m
   `build/identidade-visual.css`, `build/gerar_relatorios.py`,
   `ia-worker/worker.js`, `.github/workflows/*`, `GUIA-REPLICACAO.md`,
   `build/GUIA-RELATORIOS.md`). Valores do cliente vão em `build/config.py`,
-  `config.js`, `ia-worker/wrangler.toml` e nos marcadores `<<PREENCHER>>` dos docs.
+  `config.js`, `ia-worker/wrangler.toml` e nos dados de projeto dos docs.
 - **Somente leitura** das planilhas: o build só lê o export CSV público.
 - **Nunca** grave tokens, chaves (`ANTHROPIC_API_KEY`), senha da IA Insights ou
   credenciais da Cloudflare em arquivos do repositório — elas vivem só nos

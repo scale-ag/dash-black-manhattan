@@ -17,7 +17,9 @@ const roasf=v=>(v==null||!isFinite(v))?'-':nf1.format(v)+'x';
 const dimf=v=>v==null?'-':String(v);
 /* remove acentos p/ casar com o norm() do build.py (unicodedata NFKD) */
 const norm=s=>(s==null?'':String(s)).normalize('NFKD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase();
-const isMainProd=p=>norm(p).startsWith(MAIN_PREFIX);
+/* MAIN_PREFIX: 1 prefixo ou vários separados por '|' (ver build/config.py) */
+const MAIN_PREFIXES=MAIN_PREFIX.split('|').map(x=>x.trim()).filter(Boolean);
+const isMainProd=p=>{ const n=norm(p); return MAIN_PREFIXES.some(x=>n.startsWith(x)); };
 const brdate=d=>{ if(!d) return '-'; const p=d.split('-'); return p[2]+'/'+p[1]+'/'+p[0]; };
 const WD=['Dom','Seg','Ter','Qua','Qui','Sex','Sáb'];
 const weekday=d=>{ const dt=new Date(d+'T00:00:00'); return isNaN(dt)?'':WD[dt.getDay()]; };

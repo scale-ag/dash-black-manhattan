@@ -175,8 +175,14 @@ def is_paid(status: str) -> bool:
     return any(k in sn for k in ("pag", "aprov", "paid", "conclu", "complet", "ativ"))
 
 
+# MAIN_PRODUCT_PREFIX aceita 1 prefixo ou vários separados por "|" (ex.:
+# "assinatura anual|assinatura mensal") — para funis com mais de um produto
+# principal. Com um prefixo só, o comportamento é o mesmo de antes.
+MAIN_PRODUCT_PREFIXES = tuple(p.strip() for p in MAIN_PRODUCT_PREFIX.split("|") if p.strip())
+
+
 def is_main_product(prod: str) -> bool:
-    return norm(prod).startswith(MAIN_PRODUCT_PREFIX)
+    return norm(prod).startswith(MAIN_PRODUCT_PREFIXES)
 
 
 # ----- Máscara de PII (a página publicada é pública) ----- #
@@ -289,7 +295,7 @@ def process(meta_rows, sales_rows):
     sidx = header_index(
         sheader,
         {"created": ["data de criacao", "data", "created", "created_time"],
-         "name": ["cliente / nome", "nome", "full_name"],
+         "name": ["cliente / nome", "nome", "full_name", "comprador"],
          "email": ["cliente / e-mail", "e-mail", "email"],
          "prod": ["produto", "product"],
          # Receita do funil = coluna "Faturamento" (Valor + orderbumps por comprador),
