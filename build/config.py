@@ -44,13 +44,18 @@ TAX_FACTOR = 1.13806
 # por PREFIXO sobre o nome NORMALIZADO (sem acento, minúsculas) da coluna
 # Produto da planilha de Compradores — escreva sem acento e em minúsculas.
 # Vários prefixos podem ser separados por "|".
-# Neste cliente: 3 produtos principais — assinaturas Anual, Mensal e Semestral
-# do Manhattan Connection. A planilha tem duas grafias ("Assinatura Anual - ..."
-# e "Anual - ..."), por isso os dois prefixos de cada. Trimestral fica de fora.
-# Se o produto da Black Friday sair com outro nome, acrescente o prefixo aqui.
-MAIN_PRODUCT_PREFIX = (
-    "assinatura anual|assinatura mensal|assinatura semestral"
-    "|anual|mensal|semestral"
+# Neste cliente: 3 produtos principais da Black Friday — assinaturas Anual,
+# Mensal e Semestral com o sufixo "- Black Friday" (ex.: "Assinatura Anual -
+# Black Friday"). As vendas do perpétuo (mesmos produtos SEM o sufixo) ficam
+# FORA do funil, a menos que a UTM case com um anúncio MC-BF26 do Meta.
+# Variações de espaço no hífen ("-Black Friday", sem hífen) e a grafia sem
+# "Assinatura" (como já ocorre na planilha: "Anual - Manhattan ...") cobertas.
+# Trimestral fica de fora.
+MAIN_PRODUCT_PREFIX = "|".join(
+    f"{base}{sep}black friday"
+    for base in ("assinatura anual", "assinatura mensal", "assinatura semestral",
+                 "anual", "mensal", "semestral")
+    for sep in (" - ", " -", " ")
 )
 
 # Qual coluna UTM da planilha de Compradores carrega o Ad Name do Meta:
@@ -75,7 +80,7 @@ COUNT_ALL_AS_PAID = True
 CLIENT_NAME = "Bruno Corano"
 CLIENT_SUB = "Black Friday 2026"
 TAX_LABEL = "Imposto Meta ×1,13806"
-MAIN_PRODUCT = "Manhattan Connection (Anual · Mensal · Semestral)"
+MAIN_PRODUCT = "Black Friday (Anual · Mensal · Semestral)"
 
 # ==========================================================================
 # 4) METAS (aba Relatórios) — código de cor de CAC/ROAS

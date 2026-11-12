@@ -115,8 +115,9 @@ Verificação de 12/11/2026 (dados lidos pelo conector do Google Drive):
   `utm_medium`=Ad Set Name, `utm_content`=Ad Name (`ADS004_GENTE-INTERESSANTE`),
   `utm_term`=ID numérico. Vendas de ago/26 trazem IDs numéricos em todas as UTMs.
 - A aba "Dados The Members" é o **histórico do perpétuo desde 05/04/2026**
-  (orgânico/YouTube `utm_campaign=mctv`, recuperação etc.). O período "Máximo"
-  da dashboard começa em abril — para ler só o BF, filtre a partir de 10/11/2026.
+  (orgânico/YouTube `utm_campaign=mctv`, recuperação etc.). Esse histórico
+  não entra na dashboard: só os produtos "- Black Friday" (e vendas cuja UTM case
+  com um anúncio `MC-BF26`) contam.
 - 52 linhas de 05–07/04/2026 vêm com data `dd/mm/aaaa hh:mm` e ficam sem data
   no build (não afetam o período do BF).
 - `valor recebido` está vazio na maioria das vendas de novembro — por isso a
@@ -140,10 +141,12 @@ ConvCHK (Vendas/Checkouts) · Faturamento · ROAS (Faturamento/Gasto) · Ticket 
 
 ### Produto principal / atribuição
 - **Produto principal** = `MAIN_PRODUCT_PREFIX` (definido em `build/config.py`) —
-  neste cliente: **3 produtos** — assinaturas **Anual, Mensal e Semestral** do
-  Manhattan Connection (`MAIN_PRODUCT_PREFIX` com vários prefixos separados por `|`:
-  `assinatura anual|assinatura mensal|assinatura semestral|anual|mensal|semestral`).
-  Trimestral fica de fora. Se o produto da BF sair com nome novo, acrescentar o prefixo.
+  neste cliente: **3 produtos da Black Friday** — `Assinatura Anual - Black Friday`,
+  `Assinatura Mensal - Black Friday` e `Assinatura Semestral - Black Friday`
+  (`MAIN_PRODUCT_PREFIX` com vários prefixos separados por `|`, cobrindo variações
+  de hífen e a grafia sem "Assinatura"). As vendas do perpétuo (mesmo produto sem
+  "- Black Friday") ficam **fora** do funil, salvo se a UTM casar com um anúncio
+  `MC-BF26` do Meta. Trimestral fica de fora.
   Base de **Vendas / CAC / ConvCHK / Ticket**.
 - **Faturamento / ROAS** = soma de **todos os produtos** do funil (orderbumps/upsells).
 - Uma venda entra no funil se: é o produto principal **OU** a combinação

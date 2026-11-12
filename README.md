@@ -16,7 +16,7 @@ leitura** das planilhas — o dashboard nunca escreve nelas.
 
 Funil coberto: **lançamento pago / tráfego direto** (sem etapa de Leads/MQL) —
 `Gasto → Impressões → Cliques → Page Views → Checkouts → Vendas → Faturamento`.
-Produto principal: **Assinaturas Manhattan Connection — Anual, Mensal e Semestral**.
+Produto principal: **Assinaturas Anual, Mensal e Semestral — Black Friday** (ex.: "Assinatura Anual - Black Friday").
 
 Como funciona, por dentro:
 
