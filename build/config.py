@@ -77,7 +77,7 @@ COUNT_ALL_AS_PAID = True
 # ==========================================================================
 # 3) RÓTULOS EXIBIDOS NA INTERFACE
 # ==========================================================================
-CLIENT_NAME = "Bruno Corano"
+CLIENT_NAME = "Manhattan Connection"
 CLIENT_SUB = "Black Friday 2026"
 TAX_LABEL = "Imposto Meta ×1,13806"
 MAIN_PRODUCT = "Black Friday (Anual · Mensal · Semestral)"
