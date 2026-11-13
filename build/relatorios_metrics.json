@@ -1,0 +1,992 @@
+{
+  "gerado_em": "13/11/2026 07:05",
+  "hoje": "2026-11-13",
+  "periodo_dados": {
+    "de": "2026-11-10",
+    "ate": "2026-11-13"
+  },
+  "metas": {
+    "cac": 0.0,
+    "roas": 0.0
+  },
+  "ticket_medio_geral": null,
+  "periodos": {
+    "hoje": {
+      "de": "2026-11-13",
+      "ate": "2026-11-13",
+      "total": {
+        "gasto": 15.22,
+        "impr": 130.0,
+        "cliques": 5.0,
+        "pv": 4.0,
+        "ck": 0.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 117.05,
+        "ctr": 0.0385,
+        "cpc": 3.04,
+        "cpv": 3.8,
+        "cr": 0.8,
+        "cpic": null,
+        "vischk": 0.0,
+        "convchk": null,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 15.22,
+        "impr": 130.0,
+        "cliques": 5.0,
+        "pv": 4.0,
+        "ck": 0.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 117.05,
+        "ctr": 0.0385,
+        "cpc": 3.04,
+        "cpv": 3.8,
+        "cr": 0.8,
+        "cpic": null,
+        "vischk": 0.0,
+        "convchk": null,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "campanhas": [
+        {
+          "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
+          "gasto": 15.22,
+          "impr": 130.0,
+          "cliques": 5.0,
+          "pv": 4.0,
+          "ck": 0.0,
+          "vendas": 0,
+          "fat": 0.0,
+          "cpm": 117.05,
+          "ctr": 0.0385,
+          "cpc": 3.04,
+          "cpv": 3.8,
+          "cr": 0.8,
+          "cpic": null,
+          "vischk": 0.0,
+          "convchk": null,
+          "convlp": 0.0,
+          "cac": null,
+          "roas": 0.0,
+          "ticket": null
+        }
+      ],
+      "top_anuncios": [
+        {
+          "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
+          "gasto": 12.61,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS024_O problema de ver vídeos curtos",
+          "gasto": 0.5,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
+          "gasto": 0.27,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS026_Ter uma opinião é fácil",
+          "gasto": 1.19,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
+          "gasto": 0.47,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ],
+      "piores_anuncios": [
+        {
+          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
+          "gasto": 0.17,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ]
+    },
+    "ontem": {
+      "de": "2026-11-12",
+      "ate": "2026-11-12",
+      "total": {
+        "gasto": 153.33,
+        "impr": 1733.0,
+        "cliques": 44.0,
+        "pv": 37.0,
+        "ck": 0.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 88.48,
+        "ctr": 0.0254,
+        "cpc": 3.48,
+        "cpv": 4.14,
+        "cr": 0.8409,
+        "cpic": null,
+        "vischk": 0.0,
+        "convchk": null,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 153.33,
+        "impr": 1733.0,
+        "cliques": 44.0,
+        "pv": 37.0,
+        "ck": 0.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 88.48,
+        "ctr": 0.0254,
+        "cpc": 3.48,
+        "cpv": 4.14,
+        "cr": 0.8409,
+        "cpic": null,
+        "vischk": 0.0,
+        "convchk": null,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "campanhas": [
+        {
+          "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
+          "gasto": 153.33,
+          "impr": 1733.0,
+          "cliques": 44.0,
+          "pv": 37.0,
+          "ck": 0.0,
+          "vendas": 0,
+          "fat": 0.0,
+          "cpm": 88.48,
+          "ctr": 0.0254,
+          "cpc": 3.48,
+          "cpv": 4.14,
+          "cr": 0.8409,
+          "cpic": null,
+          "vischk": 0.0,
+          "convchk": null,
+          "convlp": 0.0,
+          "cac": null,
+          "roas": 0.0,
+          "ticket": null
+        }
+      ],
+      "top_anuncios": [
+        {
+          "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
+          "gasto": 118.82,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS024_O problema de ver vídeos curtos",
+          "gasto": 6.84,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
+          "gasto": 5.24,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS026_Ter uma opinião é fácil",
+          "gasto": 16.19,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
+          "gasto": 3.49,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ],
+      "piores_anuncios": [
+        {
+          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
+          "gasto": 2.74,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ]
+    },
+    "3d": {
+      "de": "2026-11-11",
+      "ate": "2026-11-13",
+      "total": {
+        "gasto": 367.15,
+        "impr": 3993.0,
+        "cliques": 125.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 91.95,
+        "ctr": 0.0313,
+        "cpc": 2.94,
+        "cpv": 3.34,
+        "cr": 0.88,
+        "cpic": 122.38,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 367.15,
+        "impr": 3993.0,
+        "cliques": 125.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 91.95,
+        "ctr": 0.0313,
+        "cpc": 2.94,
+        "cpv": 3.34,
+        "cr": 0.88,
+        "cpic": 122.38,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "campanhas": [
+        {
+          "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
+          "gasto": 367.15,
+          "impr": 3993.0,
+          "cliques": 125.0,
+          "pv": 110.0,
+          "ck": 3.0,
+          "vendas": 0,
+          "fat": 0.0,
+          "cpm": 91.95,
+          "ctr": 0.0313,
+          "cpc": 2.94,
+          "cpv": 3.34,
+          "cr": 0.88,
+          "cpic": 122.38,
+          "vischk": 0.0273,
+          "convchk": 0.0,
+          "convlp": 0.0,
+          "cac": null,
+          "roas": 0.0,
+          "ticket": null
+        }
+      ],
+      "top_anuncios": [
+        {
+          "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
+          "gasto": 277.02,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS024_O problema de ver vídeos curtos",
+          "gasto": 10.4,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
+          "gasto": 19.63,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS026_Ter uma opinião é fácil",
+          "gasto": 39.12,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
+          "gasto": 7.02,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ],
+      "piores_anuncios": [
+        {
+          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
+          "gasto": 13.96,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ]
+    },
+    "7d": {
+      "de": "2026-11-07",
+      "ate": "2026-11-13",
+      "total": {
+        "gasto": 403.8,
+        "impr": 4316.0,
+        "cliques": 139.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 93.56,
+        "ctr": 0.0322,
+        "cpc": 2.91,
+        "cpv": 3.67,
+        "cr": 0.7914,
+        "cpic": 134.6,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 403.8,
+        "impr": 4316.0,
+        "cliques": 139.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 93.56,
+        "ctr": 0.0322,
+        "cpc": 2.91,
+        "cpv": 3.67,
+        "cr": 0.7914,
+        "cpic": 134.6,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "campanhas": [
+        {
+          "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
+          "gasto": 403.8,
+          "impr": 4316.0,
+          "cliques": 139.0,
+          "pv": 110.0,
+          "ck": 3.0,
+          "vendas": 0,
+          "fat": 0.0,
+          "cpm": 93.56,
+          "ctr": 0.0322,
+          "cpc": 2.91,
+          "cpv": 3.67,
+          "cr": 0.7914,
+          "cpic": 134.6,
+          "vischk": 0.0273,
+          "convchk": 0.0,
+          "convlp": 0.0,
+          "cac": null,
+          "roas": 0.0,
+          "ticket": null
+        }
+      ],
+      "top_anuncios": [
+        {
+          "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
+          "gasto": 284.23,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
+          "gasto": 23.36,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS026_Ter uma opinião é fácil",
+          "gasto": 45.74,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
+          "gasto": 18.6,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
+          "gasto": 21.46,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ],
+      "piores_anuncios": [
+        {
+          "nome": "ADS024_O problema de ver vídeos curtos",
+          "gasto": 10.4,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ]
+    },
+    "14d": {
+      "de": "2026-10-31",
+      "ate": "2026-11-13",
+      "total": {
+        "gasto": 403.8,
+        "impr": 4316.0,
+        "cliques": 139.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 93.56,
+        "ctr": 0.0322,
+        "cpc": 2.91,
+        "cpv": 3.67,
+        "cr": 0.7914,
+        "cpic": 134.6,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 403.8,
+        "impr": 4316.0,
+        "cliques": 139.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 93.56,
+        "ctr": 0.0322,
+        "cpc": 2.91,
+        "cpv": 3.67,
+        "cr": 0.7914,
+        "cpic": 134.6,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "campanhas": [
+        {
+          "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
+          "gasto": 403.8,
+          "impr": 4316.0,
+          "cliques": 139.0,
+          "pv": 110.0,
+          "ck": 3.0,
+          "vendas": 0,
+          "fat": 0.0,
+          "cpm": 93.56,
+          "ctr": 0.0322,
+          "cpc": 2.91,
+          "cpv": 3.67,
+          "cr": 0.7914,
+          "cpic": 134.6,
+          "vischk": 0.0273,
+          "convchk": 0.0,
+          "convlp": 0.0,
+          "cac": null,
+          "roas": 0.0,
+          "ticket": null
+        }
+      ],
+      "top_anuncios": [
+        {
+          "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
+          "gasto": 284.23,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
+          "gasto": 23.36,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS026_Ter uma opinião é fácil",
+          "gasto": 45.74,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
+          "gasto": 18.6,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
+          "gasto": 21.46,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ],
+      "piores_anuncios": [
+        {
+          "nome": "ADS024_O problema de ver vídeos curtos",
+          "gasto": 10.4,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ]
+    },
+    "30d": {
+      "de": "2026-10-15",
+      "ate": "2026-11-13",
+      "total": {
+        "gasto": 403.8,
+        "impr": 4316.0,
+        "cliques": 139.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 93.56,
+        "ctr": 0.0322,
+        "cpc": 2.91,
+        "cpv": 3.67,
+        "cr": 0.7914,
+        "cpic": 134.6,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 403.8,
+        "impr": 4316.0,
+        "cliques": 139.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 93.56,
+        "ctr": 0.0322,
+        "cpc": 2.91,
+        "cpv": 3.67,
+        "cr": 0.7914,
+        "cpic": 134.6,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "campanhas": [
+        {
+          "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
+          "gasto": 403.8,
+          "impr": 4316.0,
+          "cliques": 139.0,
+          "pv": 110.0,
+          "ck": 3.0,
+          "vendas": 0,
+          "fat": 0.0,
+          "cpm": 93.56,
+          "ctr": 0.0322,
+          "cpc": 2.91,
+          "cpv": 3.67,
+          "cr": 0.7914,
+          "cpic": 134.6,
+          "vischk": 0.0273,
+          "convchk": 0.0,
+          "convlp": 0.0,
+          "cac": null,
+          "roas": 0.0,
+          "ticket": null
+        }
+      ],
+      "top_anuncios": [
+        {
+          "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
+          "gasto": 284.23,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
+          "gasto": 23.36,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS026_Ter uma opinião é fácil",
+          "gasto": 45.74,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
+          "gasto": 18.6,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
+          "gasto": 21.46,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ],
+      "piores_anuncios": [
+        {
+          "nome": "ADS024_O problema de ver vídeos curtos",
+          "gasto": 10.4,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ]
+    },
+    "mes": {
+      "de": "2026-11-01",
+      "ate": "2026-11-13",
+      "total": {
+        "gasto": 403.8,
+        "impr": 4316.0,
+        "cliques": 139.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 93.56,
+        "ctr": 0.0322,
+        "cpc": 2.91,
+        "cpv": 3.67,
+        "cr": 0.7914,
+        "cpic": 134.6,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 403.8,
+        "impr": 4316.0,
+        "cliques": 139.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 93.56,
+        "ctr": 0.0322,
+        "cpc": 2.91,
+        "cpv": 3.67,
+        "cr": 0.7914,
+        "cpic": 134.6,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "campanhas": [
+        {
+          "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
+          "gasto": 403.8,
+          "impr": 4316.0,
+          "cliques": 139.0,
+          "pv": 110.0,
+          "ck": 3.0,
+          "vendas": 0,
+          "fat": 0.0,
+          "cpm": 93.56,
+          "ctr": 0.0322,
+          "cpc": 2.91,
+          "cpv": 3.67,
+          "cr": 0.7914,
+          "cpic": 134.6,
+          "vischk": 0.0273,
+          "convchk": 0.0,
+          "convlp": 0.0,
+          "cac": null,
+          "roas": 0.0,
+          "ticket": null
+        }
+      ],
+      "top_anuncios": [
+        {
+          "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
+          "gasto": 284.23,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
+          "gasto": 23.36,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS026_Ter uma opinião é fácil",
+          "gasto": 45.74,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
+          "gasto": 18.6,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
+          "gasto": 21.46,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ],
+      "piores_anuncios": [
+        {
+          "nome": "ADS024_O problema de ver vídeos curtos",
+          "gasto": 10.4,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ]
+    },
+    "mespass": {
+      "de": "2026-10-01",
+      "ate": "2026-10-31",
+      "total": {
+        "gasto": 0.0,
+        "impr": 0.0,
+        "cliques": 0.0,
+        "pv": 0.0,
+        "ck": 0.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": null,
+        "ctr": null,
+        "cpc": null,
+        "cpv": null,
+        "cr": null,
+        "cpic": null,
+        "vischk": null,
+        "convchk": null,
+        "convlp": null,
+        "cac": null,
+        "roas": null,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 0.0,
+        "impr": 0.0,
+        "cliques": 0.0,
+        "pv": 0.0,
+        "ck": 0.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": null,
+        "ctr": null,
+        "cpc": null,
+        "cpv": null,
+        "cr": null,
+        "cpic": null,
+        "vischk": null,
+        "convchk": null,
+        "convlp": null,
+        "cac": null,
+        "roas": null,
+        "ticket": null
+      },
+      "campanhas": [],
+      "top_anuncios": [],
+      "piores_anuncios": []
+    },
+    "todo": {
+      "de": "2026-11-10",
+      "ate": "2026-11-13",
+      "total": {
+        "gasto": 403.8,
+        "impr": 4316.0,
+        "cliques": 139.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 93.56,
+        "ctr": 0.0322,
+        "cpc": 2.91,
+        "cpv": 3.67,
+        "cr": 0.7914,
+        "cpic": 134.6,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 403.8,
+        "impr": 4316.0,
+        "cliques": 139.0,
+        "pv": 110.0,
+        "ck": 3.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": 93.56,
+        "ctr": 0.0322,
+        "cpc": 2.91,
+        "cpv": 3.67,
+        "cr": 0.7914,
+        "cpic": 134.6,
+        "vischk": 0.0273,
+        "convchk": 0.0,
+        "convlp": 0.0,
+        "cac": null,
+        "roas": 0.0,
+        "ticket": null
+      },
+      "campanhas": [
+        {
+          "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
+          "gasto": 403.8,
+          "impr": 4316.0,
+          "cliques": 139.0,
+          "pv": 110.0,
+          "ck": 3.0,
+          "vendas": 0,
+          "fat": 0.0,
+          "cpm": 93.56,
+          "ctr": 0.0322,
+          "cpc": 2.91,
+          "cpv": 3.67,
+          "cr": 0.7914,
+          "cpic": 134.6,
+          "vischk": 0.0273,
+          "convchk": 0.0,
+          "convlp": 0.0,
+          "cac": null,
+          "roas": 0.0,
+          "ticket": null
+        }
+      ],
+      "top_anuncios": [
+        {
+          "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
+          "gasto": 284.23,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
+          "gasto": 23.36,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS026_Ter uma opinião é fácil",
+          "gasto": 45.74,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
+          "gasto": 18.6,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
+          "gasto": 21.46,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ],
+      "piores_anuncios": [
+        {
+          "nome": "ADS024_O problema de ver vídeos curtos",
+          "gasto": 10.4,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        }
+      ]
+    }
+  }
+}
