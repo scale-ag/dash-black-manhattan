@@ -1,6 +1,6 @@
 {
-  "gerado_em": "17/11/2026 08:14",
-  "hoje": "2026-11-17",
+  "gerado_em": "18/11/2026 07:46",
+  "hoje": "2026-11-18",
   "periodo_dados": {
     "de": "2026-11-10",
     "ate": "2026-11-15"
@@ -12,6 +12,55 @@
   "ticket_medio_geral": null,
   "periodos": {
     "hoje": {
+      "de": "2026-11-18",
+      "ate": "2026-11-18",
+      "total": {
+        "gasto": 0.0,
+        "impr": 0.0,
+        "cliques": 0.0,
+        "pv": 0.0,
+        "ck": 0.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": null,
+        "ctr": null,
+        "cpc": null,
+        "cpv": null,
+        "cr": null,
+        "cpic": null,
+        "vischk": null,
+        "convchk": null,
+        "convlp": null,
+        "cac": null,
+        "roas": null,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 0.0,
+        "impr": 0.0,
+        "cliques": 0.0,
+        "pv": 0.0,
+        "ck": 0.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": null,
+        "ctr": null,
+        "cpc": null,
+        "cpv": null,
+        "cr": null,
+        "cpic": null,
+        "vischk": null,
+        "convchk": null,
+        "convlp": null,
+        "cac": null,
+        "roas": null,
+        "ticket": null
+      },
+      "campanhas": [],
+      "top_anuncios": [],
+      "piores_anuncios": []
+    },
+    "ontem": {
       "de": "2026-11-17",
       "ate": "2026-11-17",
       "total": {
@@ -60,9 +109,9 @@
       "top_anuncios": [],
       "piores_anuncios": []
     },
-    "ontem": {
+    "3d": {
       "de": "2026-11-16",
-      "ate": "2026-11-16",
+      "ate": "2026-11-18",
       "total": {
         "gasto": 0.0,
         "impr": 0.0,
@@ -109,22 +158,22 @@
       "top_anuncios": [],
       "piores_anuncios": []
     },
-    "3d": {
-      "de": "2026-11-15",
-      "ate": "2026-11-17",
+    "7d": {
+      "de": "2026-11-12",
+      "ate": "2026-11-18",
       "total": {
-        "gasto": 128.67,
-        "impr": 875.0,
-        "cliques": 32.0,
-        "pv": 18.0,
+        "gasto": 650.65,
+        "impr": 7033.0,
+        "cliques": 197.0,
+        "pv": 155.0,
         "ck": 0.0,
         "vendas": 0,
         "fat": 0.0,
-        "cpm": 147.05,
-        "ctr": 0.0366,
-        "cpc": 4.02,
-        "cpv": 7.15,
-        "cr": 0.5625,
+        "cpm": 92.51,
+        "ctr": 0.028,
+        "cpc": 3.3,
+        "cpv": 4.2,
+        "cr": 0.7868,
         "cpic": null,
         "vischk": 0.0,
         "convchk": null,
@@ -134,18 +183,18 @@
         "ticket": null
       },
       "ads": {
-        "gasto": 128.67,
-        "impr": 875.0,
-        "cliques": 32.0,
-        "pv": 18.0,
+        "gasto": 650.65,
+        "impr": 7033.0,
+        "cliques": 197.0,
+        "pv": 155.0,
         "ck": 0.0,
         "vendas": 0,
         "fat": 0.0,
-        "cpm": 147.05,
-        "ctr": 0.0366,
-        "cpc": 4.02,
-        "cpv": 7.15,
-        "cr": 0.5625,
+        "cpm": 92.51,
+        "ctr": 0.028,
+        "cpc": 3.3,
+        "cpv": 4.2,
+        "cr": 0.7868,
         "cpic": null,
         "vischk": 0.0,
         "convchk": null,
@@ -157,18 +206,18 @@
       "campanhas": [
         {
           "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
-          "gasto": 128.67,
-          "impr": 875.0,
-          "cliques": 32.0,
-          "pv": 18.0,
+          "gasto": 650.65,
+          "impr": 7033.0,
+          "cliques": 197.0,
+          "pv": 155.0,
           "ck": 0.0,
           "vendas": 0,
           "fat": 0.0,
-          "cpm": 147.05,
-          "ctr": 0.0366,
-          "cpc": 4.02,
-          "cpv": 7.15,
-          "cr": 0.5625,
+          "cpm": 92.51,
+          "ctr": 0.028,
+          "cpc": 3.3,
+          "cpv": 4.2,
+          "cr": 0.7868,
           "cpic": null,
           "vischk": 0.0,
           "convchk": null,
@@ -181,35 +230,35 @@
       "top_anuncios": [
         {
           "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
-          "gasto": 59.85,
+          "gasto": 422.49,
           "vendas": 0,
           "cac": null,
           "roas": 0.0
         },
         {
           "nome": "ADS024_O problema de ver vídeos curtos",
-          "gasto": 26.74,
+          "gasto": 75.56,
           "vendas": 0,
           "cac": null,
           "roas": 0.0
         },
         {
           "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
-          "gasto": 7.02,
+          "gasto": 18.64,
           "vendas": 0,
           "cac": null,
           "roas": 0.0
         },
         {
           "nome": "ADS026_Ter uma opinião é fácil",
-          "gasto": 13.84,
+          "gasto": 72.97,
           "vendas": 0,
           "cac": null,
           "roas": 0.0
         },
         {
           "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
-          "gasto": 13.57,
+          "gasto": 45.18,
           "vendas": 0,
           "cac": null,
           "roas": 0.0
@@ -218,123 +267,7 @@
       "piores_anuncios": [
         {
           "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
-          "gasto": 7.65,
-          "vendas": 0,
-          "cac": null,
-          "roas": 0.0
-        }
-      ]
-    },
-    "7d": {
-      "de": "2026-11-11",
-      "ate": "2026-11-17",
-      "total": {
-        "gasto": 849.25,
-        "impr": 9163.0,
-        "cliques": 273.0,
-        "pv": 224.0,
-        "ck": 3.0,
-        "vendas": 0,
-        "fat": 0.0,
-        "cpm": 92.68,
-        "ctr": 0.0298,
-        "cpc": 3.11,
-        "cpv": 3.79,
-        "cr": 0.8205,
-        "cpic": 283.08,
-        "vischk": 0.0134,
-        "convchk": 0.0,
-        "convlp": 0.0,
-        "cac": null,
-        "roas": 0.0,
-        "ticket": null
-      },
-      "ads": {
-        "gasto": 849.25,
-        "impr": 9163.0,
-        "cliques": 273.0,
-        "pv": 224.0,
-        "ck": 3.0,
-        "vendas": 0,
-        "fat": 0.0,
-        "cpm": 92.68,
-        "ctr": 0.0298,
-        "cpc": 3.11,
-        "cpv": 3.79,
-        "cr": 0.8205,
-        "cpic": 283.08,
-        "vischk": 0.0134,
-        "convchk": 0.0,
-        "convlp": 0.0,
-        "cac": null,
-        "roas": 0.0,
-        "ticket": null
-      },
-      "campanhas": [
-        {
-          "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
-          "gasto": 849.25,
-          "impr": 9163.0,
-          "cliques": 273.0,
-          "pv": 224.0,
-          "ck": 3.0,
-          "vendas": 0,
-          "fat": 0.0,
-          "cpm": 92.68,
-          "ctr": 0.0298,
-          "cpc": 3.11,
-          "cpv": 3.79,
-          "cr": 0.8205,
-          "cpic": 283.08,
-          "vischk": 0.0134,
-          "convchk": 0.0,
-          "convlp": 0.0,
-          "cac": null,
-          "roas": 0.0,
-          "ticket": null
-        }
-      ],
-      "top_anuncios": [
-        {
-          "nome": "ADS026_Ter uma opinião é fácil",
-          "gasto": 94.7,
-          "vendas": 0,
-          "cac": null,
-          "roas": 0.0
-        },
-        {
-          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
-          "gasto": 26.86,
-          "vendas": 0,
-          "cac": null,
-          "roas": 0.0
-        },
-        {
-          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
-          "gasto": 48.24,
-          "vendas": 0,
-          "cac": null,
-          "roas": 0.0
-        },
-        {
-          "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
-          "gasto": 32.76,
-          "vendas": 0,
-          "cac": null,
-          "roas": 0.0
-        },
-        {
-          "nome": "ADS024_O problema de ver vídeos curtos",
-          "gasto": 78.62,
-          "vendas": 0,
-          "cac": null,
-          "roas": 0.0
-        }
-      ],
-      "piores_anuncios": [
-        {
-          "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
-          "gasto": 568.07,
+          "gasto": 15.81,
           "vendas": 0,
           "cac": null,
           "roas": 0.0
@@ -342,8 +275,8 @@
       ]
     },
     "14d": {
-      "de": "2026-11-04",
-      "ate": "2026-11-17",
+      "de": "2026-11-05",
+      "ate": "2026-11-18",
       "total": {
         "gasto": 885.9,
         "impr": 9486.0,
@@ -458,8 +391,8 @@
       ]
     },
     "30d": {
-      "de": "2026-10-19",
-      "ate": "2026-11-17",
+      "de": "2026-10-20",
+      "ate": "2026-11-18",
       "total": {
         "gasto": 885.9,
         "impr": 9486.0,
@@ -575,7 +508,7 @@
     },
     "mes": {
       "de": "2026-11-01",
-      "ate": "2026-11-17",
+      "ate": "2026-11-18",
       "total": {
         "gasto": 885.9,
         "impr": 9486.0,
