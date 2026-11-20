@@ -1,6 +1,6 @@
 {
-  "gerado_em": "19/11/2026 07:47",
-  "hoje": "2026-11-19",
+  "gerado_em": "20/11/2026 07:36",
+  "hoje": "2026-11-20",
   "periodo_dados": {
     "de": "2026-11-10",
     "ate": "2026-11-15"
@@ -12,6 +12,55 @@
   "ticket_medio_geral": null,
   "periodos": {
     "hoje": {
+      "de": "2026-11-20",
+      "ate": "2026-11-20",
+      "total": {
+        "gasto": 0.0,
+        "impr": 0.0,
+        "cliques": 0.0,
+        "pv": 0.0,
+        "ck": 0.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": null,
+        "ctr": null,
+        "cpc": null,
+        "cpv": null,
+        "cr": null,
+        "cpic": null,
+        "vischk": null,
+        "convchk": null,
+        "convlp": null,
+        "cac": null,
+        "roas": null,
+        "ticket": null
+      },
+      "ads": {
+        "gasto": 0.0,
+        "impr": 0.0,
+        "cliques": 0.0,
+        "pv": 0.0,
+        "ck": 0.0,
+        "vendas": 0,
+        "fat": 0.0,
+        "cpm": null,
+        "ctr": null,
+        "cpc": null,
+        "cpv": null,
+        "cr": null,
+        "cpic": null,
+        "vischk": null,
+        "convchk": null,
+        "convlp": null,
+        "cac": null,
+        "roas": null,
+        "ticket": null
+      },
+      "campanhas": [],
+      "top_anuncios": [],
+      "piores_anuncios": []
+    },
+    "ontem": {
       "de": "2026-11-19",
       "ate": "2026-11-19",
       "total": {
@@ -60,58 +109,9 @@
       "top_anuncios": [],
       "piores_anuncios": []
     },
-    "ontem": {
-      "de": "2026-11-18",
-      "ate": "2026-11-18",
-      "total": {
-        "gasto": 0.0,
-        "impr": 0.0,
-        "cliques": 0.0,
-        "pv": 0.0,
-        "ck": 0.0,
-        "vendas": 0,
-        "fat": 0.0,
-        "cpm": null,
-        "ctr": null,
-        "cpc": null,
-        "cpv": null,
-        "cr": null,
-        "cpic": null,
-        "vischk": null,
-        "convchk": null,
-        "convlp": null,
-        "cac": null,
-        "roas": null,
-        "ticket": null
-      },
-      "ads": {
-        "gasto": 0.0,
-        "impr": 0.0,
-        "cliques": 0.0,
-        "pv": 0.0,
-        "ck": 0.0,
-        "vendas": 0,
-        "fat": 0.0,
-        "cpm": null,
-        "ctr": null,
-        "cpc": null,
-        "cpv": null,
-        "cr": null,
-        "cpic": null,
-        "vischk": null,
-        "convchk": null,
-        "convlp": null,
-        "cac": null,
-        "roas": null,
-        "ticket": null
-      },
-      "campanhas": [],
-      "top_anuncios": [],
-      "piores_anuncios": []
-    },
     "3d": {
-      "de": "2026-11-17",
-      "ate": "2026-11-19",
+      "de": "2026-11-18",
+      "ate": "2026-11-20",
       "total": {
         "gasto": 0.0,
         "impr": 0.0,
@@ -159,21 +159,21 @@
       "piores_anuncios": []
     },
     "7d": {
-      "de": "2026-11-13",
-      "ate": "2026-11-19",
+      "de": "2026-11-14",
+      "ate": "2026-11-20",
       "total": {
-        "gasto": 497.08,
-        "impr": 5295.0,
-        "cliques": 153.0,
-        "pv": 118.0,
+        "gasto": 340.72,
+        "impr": 3493.0,
+        "cliques": 102.0,
+        "pv": 74.0,
         "ck": 0.0,
         "vendas": 0,
         "fat": 0.0,
-        "cpm": 93.88,
-        "ctr": 0.0289,
-        "cpc": 3.25,
-        "cpv": 4.21,
-        "cr": 0.7712,
+        "cpm": 97.54,
+        "ctr": 0.0292,
+        "cpc": 3.34,
+        "cpv": 4.6,
+        "cr": 0.7255,
         "cpic": null,
         "vischk": 0.0,
         "convchk": null,
@@ -183,18 +183,18 @@
         "ticket": null
       },
       "ads": {
-        "gasto": 497.08,
-        "impr": 5295.0,
-        "cliques": 153.0,
-        "pv": 118.0,
+        "gasto": 340.72,
+        "impr": 3493.0,
+        "cliques": 102.0,
+        "pv": 74.0,
         "ck": 0.0,
         "vendas": 0,
         "fat": 0.0,
-        "cpm": 93.88,
-        "ctr": 0.0289,
-        "cpc": 3.25,
-        "cpv": 4.21,
-        "cr": 0.7712,
+        "cpm": 97.54,
+        "ctr": 0.0292,
+        "cpc": 3.34,
+        "cpv": 4.6,
+        "cr": 0.7255,
         "cpic": null,
         "vischk": 0.0,
         "convchk": null,
@@ -206,18 +206,18 @@
       "campanhas": [
         {
           "nome": "MC-BF26 | E4-VEN | P1-QUENTE | CBO | 2026-11-10 |  All in one",
-          "gasto": 497.08,
-          "impr": 5295.0,
-          "cliques": 153.0,
-          "pv": 118.0,
+          "gasto": 340.72,
+          "impr": 3493.0,
+          "cliques": 102.0,
+          "pv": 74.0,
           "ck": 0.0,
           "vendas": 0,
           "fat": 0.0,
-          "cpm": 93.88,
-          "ctr": 0.0289,
-          "cpc": 3.25,
-          "cpv": 4.21,
-          "cr": 0.7712,
+          "cpm": 97.54,
+          "ctr": 0.0292,
+          "cpc": 3.34,
+          "cpv": 4.6,
+          "cr": 0.7255,
           "cpic": null,
           "vischk": 0.0,
           "convchk": null,
@@ -229,36 +229,36 @@
       ],
       "top_anuncios": [
         {
-          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
-          "gasto": 41.69,
-          "vendas": 0,
-          "cac": null,
-          "roas": 0.0
-        },
-        {
-          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
-          "gasto": 13.06,
-          "vendas": 0,
-          "cac": null,
-          "roas": 0.0
-        },
-        {
           "nome": "ADS023_Você sabia? Seu cérebro funciona assim",
-          "gasto": 303.53,
+          "gasto": 197.86,
           "vendas": 0,
           "cac": null,
           "roas": 0.0
         },
         {
-          "nome": "ADS026_Ter uma opinião é fácil",
-          "gasto": 56.78,
+          "nome": "ADS024_O problema de ver vídeos curtos",
+          "gasto": 54.02,
           "vendas": 0,
           "cac": null,
           "roas": 0.0
         },
         {
           "nome": "ADS025_Você já reparou que hoje todo mundo tem opinião sobre tudo?",
-          "gasto": 13.41,
+          "gasto": 10.94,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS026_Ter uma opinião é fácil",
+          "gasto": 36.3,
+          "vendas": 0,
+          "cac": null,
+          "roas": 0.0
+        },
+        {
+          "nome": "ADS027_Se eu te perguntasse agora qual foi a coisa mais interessante",
+          "gasto": 31.69,
           "vendas": 0,
           "cac": null,
           "roas": 0.0
@@ -266,8 +266,8 @@
       ],
       "piores_anuncios": [
         {
-          "nome": "ADS024_O problema de ver vídeos curtos",
-          "gasto": 68.61,
+          "nome": "ADS028_Você consegue se lembrar dos 10 últimos vídeos que assistiu?",
+          "gasto": 9.9,
           "vendas": 0,
           "cac": null,
           "roas": 0.0
@@ -275,8 +275,8 @@
       ]
     },
     "14d": {
-      "de": "2026-11-06",
-      "ate": "2026-11-19",
+      "de": "2026-11-07",
+      "ate": "2026-11-20",
       "total": {
         "gasto": 885.9,
         "impr": 9486.0,
@@ -391,8 +391,8 @@
       ]
     },
     "30d": {
-      "de": "2026-10-21",
-      "ate": "2026-11-19",
+      "de": "2026-10-22",
+      "ate": "2026-11-20",
       "total": {
         "gasto": 885.9,
         "impr": 9486.0,
@@ -508,7 +508,7 @@
     },
     "mes": {
       "de": "2026-11-01",
-      "ate": "2026-11-19",
+      "ate": "2026-11-20",
       "total": {
         "gasto": 885.9,
         "impr": 9486.0,
